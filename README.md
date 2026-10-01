@@ -1,5 +1,3 @@
-#Logic Based Sudoku Solver
-
 Solves most Sudoku puzzles
 
 Run main.py.
